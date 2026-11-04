@@ -5,7 +5,7 @@
 //   ZOOM_HOST (opcional)  -> e-mail do host (default: suporte@asteraplanejamento.com.br)
 //   TZ_DISPLAY (opcional) -> fuso de exibição (default: America/Sao_Paulo)
 
-import { writeFileSync, readFileSync, existsSync } from "node:fs";
+import { writeFileSync, readFileSync, existsSync, appendFileSync } from "node:fs";
 
 const ACCOUNT_ID = process.env.ZOOM_ACCOUNT_ID;
 const CLIENT_ID = process.env.ZOOM_CLIENT_ID;
@@ -22,6 +22,7 @@ if (!ACCOUNT_ID || !CLIENT_ID || !CLIENT_SECRET) {
 // ===== Taxonomia (tipos + cores). Fonte da verdade do projeto. =====
 const TIPOS = [
   { id: "lab", nome: "Astera LAB – Case de Clientes", cor: "#f5e900" },
+  { id: "lck", nome: "LCK LAB", cor: "#c92a2a" },
   { id: "up", nome: "Astera UP – Clube do Livro", cor: "#2d6cdf" },
   { id: "flow", nome: "Astera FLOW – Educação Continuada", cor: "#e5407a" },
   { id: "seguros", nome: "Call SEGUROS", cor: "#5c6360" },
@@ -51,6 +52,7 @@ function mapTipo(topic) {
   if (/imers/.test(t)) return "imersao";
   if (/mesa/.test(t)) return "mesa";
   if (/acel/.test(t)) return "acel";
+  if (/lck/.test(t)) return "lck"; // antes de "lab": "LCK LAB" contém as duas palavras
   if (/lab/.test(t)) return "lab";
   if (/clube do livro|astera up|\bup\b/.test(t)) return "up";
   if (/flow|educa/.test(t)) return "flow";
@@ -177,6 +179,27 @@ async function build() {
   );
   console.log(`Ocorrências únicas no período: ${unicos.length}; descartadas (não mapeadas): ${unicos.length - eventosZoom.length}`);
   if (descartados.length) console.log(`Títulos descartados (${descartados.length}): ${descartados.slice(0, 50).join(" | ")}`);
+
+  // Resumo na página do run (Summary), para revisão fácil do que foi descartado.
+  if (process.env.GITHUB_STEP_SUMMARY) {
+    const porTipo = {};
+    for (const e of eventosZoom) porTipo[e.tipo] = (porTipo[e.tipo] || 0) + 1;
+    const resumo = [
+      "### Sync do Zoom",
+      "",
+      `- Eventos de iniciativas: **${eventosZoom.length}** (janela de ${JANELA_DIAS} dias)`,
+      `- Ocorrências únicas no período: ${unicos.length} · descartadas (não mapeadas): ${unicos.length - eventosZoom.length}`,
+      `- Por tipo: ${Object.entries(porTipo).map(([k, v]) => `${k}=${v}`).join(", ")}`,
+      "",
+      `**Títulos descartados (${descartados.length}):**`,
+      ...descartados.map((t) => `- ${t}`),
+    ].join("\n");
+    try {
+      appendFileSync(process.env.GITHUB_STEP_SUMMARY, resumo + "\n");
+    } catch (e) {
+      console.warn(`Falha ao escrever o resumo: ${e.message}`);
+    }
+  }
 }
 
 build().catch((e) => {

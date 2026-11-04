@@ -2,6 +2,7 @@
   "_comment": "Links das salas ao vivo no Atlas, por iniciativa. 'recorrentes' = link fixo por tipo; 'avulsos' = link por evento específico (nome + data). Usado pelo sync para anexar 'link' em cada evento.",
   "recorrentes": {
     "lab": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab",
+    "lck": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/lck-captacao",
     "flow": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow",
     "up": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up",
     "mentoria": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf",
