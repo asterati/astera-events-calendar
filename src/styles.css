@@ -62,8 +62,8 @@
 }
 
 :root {
-  --font-display: "Fraunces", Georgia, serif;
-  --font-sans: "DM Sans", system-ui, sans-serif;
+  --font-display: "Chakra Petch", system-ui, sans-serif;
+  --font-sans: "Poppins", system-ui, sans-serif;
   /* As cores por tipo de iniciativa vivem no data.json (campo "cor"), não aqui. */
   --radius: 0.625rem;
   --background: oklch(0.985 0.006 85);
@@ -147,5 +147,18 @@
   }
   .font-display {
     font-family: var(--font-display);
+  }
+}
+
+/* Calendário: layout responsivo (grade no desktop, agenda no mobile). */
+@media (max-width: 820px) {
+  .cal-layout {
+    grid-template-columns: 1fr !important;
+  }
+  .cal-grid-wrap {
+    display: none !important;
+  }
+  .cal-agenda {
+    display: flex !important;
   }
 }
