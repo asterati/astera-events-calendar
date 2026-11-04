@@ -17,21 +17,22 @@ export const Route = createFileRoute("/")({
 
 type Evento = { id: string; data: string; inicio: string; fim: string; nome: string; tipo: string; link: string | null };
 
-const corVar: Record<string, string> = {
-  aula: "var(--tipo-aula)",
-  workshop: "var(--tipo-workshop)",
-  mentoria: "var(--tipo-mentoria)",
-  evento: "var(--tipo-evento)",
-};
+type Tipo = { id: string; nome: string; cor: string };
+
+const COR_PADRAO = "#7a7f7c";
 
 function Index() {
+  const tipos = data.tipos as Tipo[];
+  const corById: Record<string, string> = Object.fromEntries(tipos.map((t) => [t.id, t.cor]));
+  const tipoNome: Record<string, string> = Object.fromEntries(tipos.map((t) => [t.id, t.nome]));
+  const cor = (tipo: string) => corById[tipo] ?? COR_PADRAO;
+
   const eventos = [...(data.eventos as Evento[])].sort((a, b) => (a.data + a.inicio).localeCompare(b.data + b.inicio));
   const grupos = new Map<string, Evento[]>();
   for (const e of eventos) {
     const k = e.data.slice(0, 7);
     grupos.set(k, [...(grupos.get(k) ?? []), e]);
   }
-  const tipoNome = Object.fromEntries(data.tipos.map((t) => [t.id, t.nome]));
 
   return (
     <main className="mx-auto max-w-4xl px-5 py-12">
@@ -41,7 +42,7 @@ function Index() {
         <ul className="mt-6 flex flex-wrap gap-x-5 gap-y-2">
           {data.tipos.map((t) => (
             <li key={t.id} className="flex items-center gap-2 text-sm text-muted-foreground">
-              <span className="h-3 w-3 rounded-full" style={{ background: corVar[t.id] }} />
+              <span className="h-3 w-3 rounded-full" style={{ background: cor(t.id) }} />
               {t.nome}
             </li>
           ))}
@@ -61,7 +62,7 @@ function Index() {
                     <li
                       key={e.id}
                       className="flex flex-col gap-4 rounded-lg border border-border bg-card p-4 sm:flex-row sm:items-center"
-                      style={{ borderLeft: `5px solid ${corVar[e.tipo]}` }}
+                      style={{ borderLeft: `5px solid ${cor(e.tipo)}` }}
                     >
                       <div className="w-16 shrink-0 text-center">
                         <div className="font-display text-3xl font-bold leading-none text-foreground">{d.getDate()}</div>
@@ -70,7 +71,7 @@ function Index() {
                         </div>
                       </div>
                       <div className="flex-1">
-                        <span className="text-xs font-semibold uppercase tracking-wide" style={{ color: corVar[e.tipo] }}>
+                        <span className="text-xs font-semibold uppercase tracking-wide" style={{ color: cor(e.tipo) }}>
                           {tipoNome[e.tipo]}
                         </span>
                         <h3 className="text-lg font-semibold text-card-foreground">{e.nome}</h3>

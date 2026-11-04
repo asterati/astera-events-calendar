@@ -1,18 +1,32 @@
 {
   "tipos": [
-    { "id": "aula", "nome": "Aula", "cor": "aula" },
-    { "id": "workshop", "nome": "Workshop", "cor": "workshop" },
-    { "id": "mentoria", "nome": "Mentoria", "cor": "mentoria" },
-    { "id": "evento", "nome": "Evento institucional", "cor": "evento" }
+    { "id": "lab", "nome": "Astera LAB – Case de Clientes", "cor": "#f5e900" },
+    { "id": "up", "nome": "Astera UP – Clube do Livro", "cor": "#2d6cdf" },
+    { "id": "flow", "nome": "Astera FLOW – Educação Continuada", "cor": "#e5407a" },
+    { "id": "seguros", "nome": "Call SEGUROS", "cor": "#5c6360" },
+    { "id": "marketing", "nome": "Oficina de Marketing", "cor": "#e8821e" },
+    { "id": "kosmo", "nome": "APP Kosmo", "cor": "#7a3ff2" },
+    { "id": "mentoria", "nome": "Mentoria RPF (Rota do Planejador)", "cor": "#b08900" },
+    { "id": "imersao", "nome": "Imersão RPF", "cor": "#c9962b" },
+    { "id": "clinica", "nome": "Encontro/Clínica (Roda do Planejador)", "cor": "#9b2d5b" },
+    { "id": "mesa", "nome": "Mesa Redonda", "cor": "#c75b12" },
+    { "id": "acel", "nome": "Aceleradora", "cor": "#15938c" },
+    { "id": "updates", "nome": "Update de Investimentos", "cor": "#0f8bbf" },
+    { "id": "feriado", "nome": "Feriado", "cor": "#c2c6c3" },
+    { "id": "aviso", "nome": "Avisos", "cor": "#9aa0a6" },
+    { "id": "outros", "nome": "Outros", "cor": "#7a7f7c" }
   ],
   "eventos": [
-    { "id": "1", "data": "2026-11-05", "inicio": "19:00", "fim": "21:00", "nome": "Fundamentos de Dados — Aula 3", "tipo": "aula", "link": "https://meet.google.com/abc-defg-hij" },
-    { "id": "2", "data": "2026-11-10", "inicio": "14:00", "fim": "17:00", "nome": "Workshop de Prototipação", "tipo": "workshop", "link": "https://zoom.us/j/123456789" },
-    { "id": "3", "data": "2026-11-18", "inicio": "10:00", "fim": "11:00", "nome": "Mentoria em grupo — Carreira", "tipo": "mentoria", "link": null },
-    { "id": "4", "data": "2026-11-25", "inicio": "18:30", "fim": "20:00", "nome": "Encontro da Comunidade Astera", "tipo": "evento", "link": null },
-    { "id": "5", "data": "2026-12-02", "inicio": "19:00", "fim": "21:00", "nome": "Fundamentos de Dados — Aula 4", "tipo": "aula", "link": "https://meet.google.com/abc-defg-hij" },
-    { "id": "6", "data": "2026-12-09", "inicio": "15:00", "fim": "16:30", "nome": "Mentoria individual — Projetos", "tipo": "mentoria", "link": "https://meet.google.com/xyz-uvwx-rst" },
-    { "id": "7", "data": "2026-12-15", "inicio": "17:00", "fim": "20:00", "nome": "Celebração de fim de ano", "tipo": "evento", "link": null },
-    { "id": "8", "data": "2027-01-12", "inicio": "09:00", "fim": "12:00", "nome": "Workshop de Planejamento 2027", "tipo": "workshop", "link": "https://zoom.us/j/987654321" }
+    { "id": "s1", "data": "2026-11-05", "inicio": "19:00", "fim": "21:00", "nome": "Astera LAB — Case de Clientes", "tipo": "lab", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab" },
+    { "id": "s2", "data": "2026-11-06", "inicio": "12:00", "fim": "13:00", "nome": "Update de Investimentos", "tipo": "updates", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos" },
+    { "id": "s3", "data": "2026-11-10", "inicio": "19:00", "fim": "20:30", "nome": "Astera UP — Clube do Livro", "tipo": "up", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up" },
+    { "id": "s4", "data": "2026-11-12", "inicio": "19:00", "fim": "21:00", "nome": "Astera FLOW — Educação Continuada", "tipo": "flow", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow" },
+    { "id": "s5", "data": "2026-11-13", "inicio": "09:00", "fim": "10:00", "nome": "Call SEGUROS", "tipo": "seguros", "link": null },
+    { "id": "s6", "data": "2026-11-18", "inicio": "19:00", "fim": "21:00", "nome": "Mentoria RPF — Rota do Planejador", "tipo": "mentoria", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf" },
+    { "id": "s7", "data": "2026-11-20", "inicio": "15:00", "fim": "16:00", "nome": "Demonstração e FAQ Kosmo", "tipo": "kosmo", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq" },
+    { "id": "s8", "data": "2026-11-25", "inicio": "19:00", "fim": "20:30", "nome": "Clínica do Planejador", "tipo": "clinica", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador" },
+    { "id": "s9", "data": "2026-11-28", "inicio": "10:00", "fim": "12:00", "nome": "Oficina de Marketing", "tipo": "marketing", "link": null },
+    { "id": "s10", "data": "2026-12-03", "inicio": "19:00", "fim": "21:00", "nome": "Mentoria RPF — Rota do Planejador", "tipo": "mentoria", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf" },
+    { "id": "s11", "data": "2026-12-10", "inicio": "19:00", "fim": "21:00", "nome": "Astera LAB — Case de Clientes", "tipo": "lab", "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab" }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "_comment": "Links das salas ao vivo no Atlas, por iniciativa. 'recorrentes' = link fixo por tipo; 'avulsos' = link por evento específico (nome + data). Usado pelo sync para anexar 'link' em cada evento.",
+  "recorrentes": {
+    "lab": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab",
+    "flow": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow",
+    "up": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up",
+    "mentoria": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf",
+    "kosmo": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq",
+    "clinica": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador",
+    "updates": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
+  },
+  "avulsos": []
+}

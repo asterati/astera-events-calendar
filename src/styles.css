@@ -64,10 +64,7 @@
 :root {
   --font-display: "Fraunces", Georgia, serif;
   --font-sans: "DM Sans", system-ui, sans-serif;
-  --tipo-aula: oklch(0.55 0.15 250);
-  --tipo-workshop: oklch(0.65 0.16 55);
-  --tipo-mentoria: oklch(0.55 0.13 160);
-  --tipo-evento: oklch(0.55 0.18 15);
+  /* As cores por tipo de iniciativa vivem no data.json (campo "cor"), não aqui. */
   --radius: 0.625rem;
   --background: oklch(0.985 0.006 85);
   --foreground: oklch(0.22 0.03 255);

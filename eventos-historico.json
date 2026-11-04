@@ -1,0 +1,4 @@
+{
+  "_comment": "Seed histórico: eventos passados registrados uma vez (não são mantidos pelo sync do Zoom). Formato por evento: { id, data, inicio, fim, nome, tipo, link }. Preencher a partir da v1 depois.",
+  "eventos": []
+}
