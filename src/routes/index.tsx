@@ -154,22 +154,24 @@ function Index() {
     const c = cor(e.tipo);
     const inner = (
       <>
-        <span
-          style={{
-            fontFamily: "var(--font-display)",
-            fontWeight: 600,
-            fontSize: 10,
-            lineHeight: 1,
-            background: c,
-            color: inkFor(c),
-            padding: "3px 5px",
-            borderRadius: 4,
-            whiteSpace: "nowrap",
-            alignSelf: "flex-start",
-          }}
-        >
-          {e.inicio}
-        </span>
+        {e.inicio && (
+          <span
+            style={{
+              fontFamily: "var(--font-display)",
+              fontWeight: 600,
+              fontSize: 10,
+              lineHeight: 1,
+              background: c,
+              color: inkFor(c),
+              padding: "3px 5px",
+              borderRadius: 4,
+              whiteSpace: "nowrap",
+              alignSelf: "flex-start",
+            }}
+          >
+            {e.inicio}
+          </span>
+        )}
         <span style={{ fontSize: 11.5, lineHeight: 1.2, color: PAL.ink, fontWeight: 500 }}>{e.nome}</span>
       </>
     );
