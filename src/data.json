@@ -83,6 +83,2121 @@
   ],
   "eventos": [
     {
+      "id": "h142",
+      "data": "2026-01-06",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 3",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h1",
+      "data": "2026-01-07",
+      "inicio": "",
+      "fim": "",
+      "nome": "Planejamento Estratégico Astera: Reflexão e Expansão de Carteira",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h143",
+      "data": "2026-01-08",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como precificar o trabalho de planejamento financeiro",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h2",
+      "data": "2026-01-09",
+      "inicio": "",
+      "fim": "",
+      "nome": "Como mostrar para o cliente o orçamento ideal dele",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h144",
+      "data": "2026-01-13",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 4",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h3",
+      "data": "2026-01-14",
+      "inicio": "",
+      "fim": "",
+      "nome": "Relatos de Campo: Estratégias de Retenção, Precificação e Gestão de Crise",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h145",
+      "data": "2026-01-15",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Quando o cliente acha que não tem objetivos (E por que isso é responsabilidade do planejador financeiro)",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h4",
+      "data": "2026-01-16",
+      "inicio": "",
+      "fim": "",
+      "nome": "Como ensinar clientes sobre investimentos imobiliários",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h5",
+      "data": "2026-01-19",
+      "inicio": "",
+      "fim": "",
+      "nome": "Oficina de Marketing - Sessão 5",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h146",
+      "data": "2026-01-20",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 5",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h6",
+      "data": "2026-01-21",
+      "inicio": "",
+      "fim": "",
+      "nome": "Café com a Astera: Do Perfil Comportamental ao 'Drama' do Banco Master",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h147",
+      "data": "2026-01-22",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como atender um cliente de planejamento financeiro (primeiros passos)",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h7",
+      "data": "2026-01-23",
+      "inicio": "",
+      "fim": "",
+      "nome": "Como encerrar o ciclo do cliente endividado, por Diego Maia",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h148",
+      "data": "2026-01-27",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 6",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h8",
+      "data": "2026-01-28",
+      "inicio": "",
+      "fim": "",
+      "nome": "Implementação de Gamificação e Ferramentas Dinâmicas no Atendimento",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h149",
+      "data": "2026-01-29",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Quais entregas reais fazer no encontro de apresentação para potencializar a chance de fechar o contrato?",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h9",
+      "data": "2026-01-30",
+      "inicio": "",
+      "fim": "",
+      "nome": "De 0 a 60 clientes em 2 anos: o básico que realmente funciona no planejamento financeiro, com Kaique Favari",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h10",
+      "data": "2026-02-04",
+      "inicio": "",
+      "fim": "",
+      "nome": "Comitê de Alocação e Compliance CVM: Diretrizes Estratégicas 2026",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h150",
+      "data": "2026-02-05",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Ferramenta de planejamento na prática: como usar com o cliente no dia a dia",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h11",
+      "data": "2026-02-06",
+      "inicio": "",
+      "fim": "",
+      "nome": "Dividendos 2026: entendendo a nova lógica tributária, com Thiago Chaim",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h151",
+      "data": "2026-02-10",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula Apresentação do Curso",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h12",
+      "data": "2026-02-11",
+      "inicio": "",
+      "fim": "",
+      "nome": "Estratégias de CRM e Gestão de Clientes de Alta Renda: Relatório de Alinhamento Astera",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h152",
+      "data": "2026-02-12",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como me organizo (sendo part-time) para trabalhar com planejamento",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h13",
+      "data": "2026-02-13",
+      "inicio": "",
+      "fim": "",
+      "nome": "Como fazer análise da sua carteira de cliente e montar a Climatologia",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h153",
+      "data": "2026-02-19",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Duração ideal do contrato: consultoria avulsa, 3, 6 ou 12 meses? Como decidir sem “achismo”",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h14",
+      "data": "2026-02-20",
+      "inicio": "",
+      "fim": "",
+      "nome": "CRM / Climatologia",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h154",
+      "data": "2026-02-24",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 1",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h15",
+      "data": "2026-02-25",
+      "inicio": "",
+      "fim": "",
+      "nome": "Mastermind Astera: Estratégias de Prospecção, Gestão de Passivos e Alocação de Ativos",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h155",
+      "data": "2026-02-26",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - O Mito da Prospecção",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h16",
+      "data": "2026-02-27",
+      "inicio": "",
+      "fim": "",
+      "nome": "Previdência Privada, como escolher as melhores opções e montar uma carteira para seu cliente de planejamento",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h17",
+      "data": "2026-03-02",
+      "inicio": "",
+      "fim": "",
+      "nome": "Oficina de Marketing: Sessão 6",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h156",
+      "data": "2026-03-03",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 2",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h18",
+      "data": "2026-03-04",
+      "inicio": "",
+      "fim": "",
+      "nome": "Comitê de Investimentos Astera: Estratégias de Crédito, Juros Longos e Eficiência em ETFs",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h19",
+      "data": "2026-03-06",
+      "inicio": "",
+      "fim": "",
+      "nome": "Jogo de Priorização - Como priorizar objetivos com o seu cliente",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h157",
+      "data": "2026-03-06",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como atender cliente endividado",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h20",
+      "data": "2026-03-10",
+      "inicio": "",
+      "fim": "",
+      "nome": "Treinamento Seguros - 10.03.26",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h158",
+      "data": "2026-03-10",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 3",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h21",
+      "data": "2026-03-11",
+      "inicio": "",
+      "fim": "",
+      "nome": "Laboratório de UX: Validação do Módulo de Gestão de Orçamento e Fluxo de Caixa",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h159",
+      "data": "2026-03-12",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Ser generalista ou se especializar? O dilema que define o futuro da sua carreira",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h22",
+      "data": "2026-03-13",
+      "inicio": "",
+      "fim": "",
+      "nome": "Astera UP: O Início",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h23",
+      "data": "2026-03-16",
+      "inicio": "",
+      "fim": "",
+      "nome": "Oficina de Marketing: Sessão 7",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h160",
+      "data": "2026-03-17",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 4",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h24",
+      "data": "2026-03-18",
+      "inicio": "",
+      "fim": "",
+      "nome": "Updates de Investimentos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h161",
+      "data": "2026-03-19",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - PF e PJ no mesmo cliente: como atender sem se perder?",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h25",
+      "data": "2026-03-20",
+      "inicio": "",
+      "fim": "",
+      "nome": "A Psicologia Financeira, Capítulo 1 e 2",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h162",
+      "data": "2026-03-24",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 5",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h26",
+      "data": "2026-03-25",
+      "inicio": "",
+      "fim": "",
+      "nome": "O \"Time\" do Valor e a Antecipação de Cenários Críticos",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h27",
+      "data": "2026-03-25",
+      "inicio": "",
+      "fim": "",
+      "nome": "Treinamento Seguros - 25.03.26",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h163",
+      "data": "2026-03-26",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Redes sociais para planejador: por onde começar e o que realmente funciona",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h28",
+      "data": "2026-03-27",
+      "inicio": "",
+      "fim": "",
+      "nome": "APP Astera (Kosmo)",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h164",
+      "data": "2026-03-30",
+      "inicio": "",
+      "fim": "",
+      "nome": "Imersão Mentoria Rota do Planejador",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h165",
+      "data": "2026-03-31",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 6",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h29",
+      "data": "2026-04-01",
+      "inicio": "",
+      "fim": "",
+      "nome": "Estratégias de Planejamento: Decisões sobre Mobilidade, Imóveis e Eficiência Operacional",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h166",
+      "data": "2026-04-02",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como a psicologia financeira pode transformar o atendimento ao cliente",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h30",
+      "data": "2026-04-06",
+      "inicio": "",
+      "fim": "",
+      "nome": "Oficina de Marketing: Astera Conecta",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h167",
+      "data": "2026-04-07",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula de Apresentação do Curso",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h31",
+      "data": "2026-04-08",
+      "inicio": "",
+      "fim": "",
+      "nome": "Roadmap Tecnológico e Estratégias de Gestão Comportamental de Clientes",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h168",
+      "data": "2026-04-09",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Ser bom não basta: é preciso ser percebido como bom",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h32",
+      "data": "2026-04-10",
+      "inicio": "",
+      "fim": "",
+      "nome": "Updates de Investimentos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h33",
+      "data": "2026-04-15",
+      "inicio": "",
+      "fim": "",
+      "nome": "Estratégias de Abordagem para Clientes Fora do Padrão e Ferramenta de Análise 4 Quadrantes - Tércio",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h169",
+      "data": "2026-04-16",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Onde os investimentos entram no planejamento financeiro, e por que quase todo iniciante começa errado",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h34",
+      "data": "2026-04-17",
+      "inicio": "",
+      "fim": "",
+      "nome": "A Psicologia Financeira, Capítulos 3 e 4",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h35",
+      "data": "2026-04-20",
+      "inicio": "",
+      "fim": "",
+      "nome": "Oficina de Marketing: Sessão 8",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h170",
+      "data": "2026-04-20",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 1",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h36",
+      "data": "2026-04-22",
+      "inicio": "",
+      "fim": "",
+      "nome": "Termômetro Financeiro e Gestão de Fluxo de Caixa para Clientes de Alta Renda",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h171",
+      "data": "2026-04-23",
+      "inicio": "",
+      "fim": "",
+      "nome": "Imersão Mentoria Rota do Planejador",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h37",
+      "data": "2026-04-24",
+      "inicio": "",
+      "fim": "",
+      "nome": "Gestão de Produtividade (update): agenda em blocos, kanban, priorização, tasks recorrentes",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h172",
+      "data": "2026-04-28",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 2",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h38",
+      "data": "2026-04-29",
+      "inicio": "",
+      "fim": "",
+      "nome": "Roadmap de Implementação: Kosmo",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h173",
+      "data": "2026-04-30",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Planilha resolve. Plataforma transforma. Entenda a diferença na prática",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h39",
+      "data": "2026-05-01",
+      "inicio": "",
+      "fim": "",
+      "nome": "Como criar vinculo com o seu cliente - Aula 02",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h40",
+      "data": "2026-05-04",
+      "inicio": "",
+      "fim": "",
+      "nome": "Estratégias de Tráfego Pago, CAC e LTV para Planejadores Financeiros",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h174",
+      "data": "2026-05-05",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 3",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h41",
+      "data": "2026-05-06",
+      "inicio": "",
+      "fim": "",
+      "nome": "Fórum Astera: Gestão de Objeções e Novas Funcionalidades de Planejamento",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h175",
+      "data": "2026-05-07",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Quanto vale o seu trabalho? Como demonstrar valor e não preço",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h42",
+      "data": "2026-05-08",
+      "inicio": "",
+      "fim": "",
+      "nome": "A Psicologia Financeira, Capítulos 5 e 6",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h43",
+      "data": "2026-05-12",
+      "inicio": "",
+      "fim": "",
+      "nome": "Treinamento Seguros - 12.05.26",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h176",
+      "data": "2026-05-12",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 4",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h44",
+      "data": "2026-05-13",
+      "inicio": "",
+      "fim": "",
+      "nome": "Inteligência de Mercado, Gestão de Clientes e Atualização de Recursos da Plataforma",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h177",
+      "data": "2026-05-14",
+      "inicio": "",
+      "fim": "",
+      "nome": "Imersão Mentoria Rota do Planejador",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h45",
+      "data": "2026-05-15",
+      "inicio": "",
+      "fim": "",
+      "nome": "Updates de Investimentos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h178",
+      "data": "2026-05-15",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - O que o cliente compra? Por que o seu conhecimento técnico não é o que fecha o contrato",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h179",
+      "data": "2026-05-19",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula 5",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h46",
+      "data": "2026-05-20",
+      "inicio": "",
+      "fim": "",
+      "nome": "Estratégias de Precificação, Engajamento e Espaçamento para Clientes de Longo Prazo",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h180",
+      "data": "2026-05-21",
+      "inicio": "",
+      "fim": "",
+      "nome": "Clínica do Planejador - Transição de Carreira",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h47",
+      "data": "2026-05-22",
+      "inicio": "",
+      "fim": "",
+      "nome": "A Psicologia Financeira, Capítulos 7 e 8",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h181",
+      "data": "2026-05-25",
+      "inicio": "",
+      "fim": "",
+      "nome": "Mesa Redonda",
+      "tipo": "mesa",
+      "link": null
+    },
+    {
+      "id": "h182",
+      "data": "2026-05-26",
+      "inicio": "",
+      "fim": "",
+      "nome": "Encontro - Brasília - dia 1",
+      "tipo": "outros",
+      "link": null
+    },
+    {
+      "id": "h183",
+      "data": "2026-05-27",
+      "inicio": "",
+      "fim": "",
+      "nome": "Encontro - Brasília - dia 2",
+      "tipo": "outros",
+      "link": null
+    },
+    {
+      "id": "h184",
+      "data": "2026-05-28",
+      "inicio": "",
+      "fim": "",
+      "nome": "Encontro - Brasília - dia 3",
+      "tipo": "outros",
+      "link": null
+    },
+    {
+      "id": "h185",
+      "data": "2026-05-30",
+      "inicio": "",
+      "fim": "",
+      "nome": "Imersão Mentoria Rota do Planejador",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h48",
+      "data": "2026-06-01",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h49",
+      "data": "2026-06-01",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Estruturação de Funis e Automação de DM com ManyChat",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h186",
+      "data": "2026-06-01",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula de Apresentação do Curso",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h187",
+      "data": "2026-06-02",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 6",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h50",
+      "data": "2026-06-03",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "Migração para o Kosmo, Gestão de Carteira e Análise de Casos",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h51",
+      "data": "2026-06-08",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h188",
+      "data": "2026-06-09",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 1",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h52",
+      "data": "2026-06-10",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "Otimização Avenue, Cases de Clientes e Táticas de Renegociação de Dívidas",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h189",
+      "data": "2026-06-11",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Clínica do Planejador - Por que o diagnóstico avulso não funciona nem pro cliente nem pro planejador — e qual modelo funciona",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h190",
+      "data": "2026-06-11",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Imersão - 11/06/26",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h53",
+      "data": "2026-06-12",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "A Psicologia Financeira, Capítulos 9 e 10",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h54",
+      "data": "2026-06-15",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h191",
+      "data": "2026-06-16",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Mesa Redonda - 12h",
+      "tipo": "mesa",
+      "link": null
+    },
+    {
+      "id": "h192",
+      "data": "2026-06-16",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 2",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h55",
+      "data": "2026-06-17",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "Estratégias de Retenção, Visão de Longo Prazo e Captação Patrimonial",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h193",
+      "data": "2026-06-18",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kick-Off Aceleradora - 12h",
+      "tipo": "acel",
+      "link": null
+    },
+    {
+      "id": "h194",
+      "data": "2026-06-18",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como tirar seu cliente do Vermelho",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h56",
+      "data": "2026-06-19",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "Revisão da Metodologia da Sessão 1, Novas Funcionalidades do Kosmo e Importação do Vista",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h57",
+      "data": "2026-06-22",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h58",
+      "data": "2026-06-23",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Educação Continuada",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h59",
+      "data": "2026-06-23",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h195",
+      "data": "2026-06-23",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 3",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h60",
+      "data": "2026-06-24",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Cases de Consultoria, Oportunidades de Crédito e Atualizações de Produto",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h196",
+      "data": "2026-06-25",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como atender clientes com vício, compra por impulso e más decisões financeiras",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h197",
+      "data": "2026-06-25",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Imersão - 25/06/26",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h61",
+      "data": "2026-06-26",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "A Psicologia Financeira, Capítulos 11 e 12",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h62",
+      "data": "2026-06-29",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h63",
+      "data": "2026-07-01",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Revisão de Metas, Algoritmo do Instagram e Análise de Viabilidade Imobiliária",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h198",
+      "data": "2026-07-02",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador - Como montar uma palestra que prende e leva a pessoa a agir",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h64",
+      "data": "2026-07-03",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Metodologia BANT + SPIN: Otimização do Funil Comercial e Pré-Qualificação de Leads",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h65",
+      "data": "2026-07-06",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h66",
+      "data": "2026-07-07",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS - Mitigação de Riscos 360: Análise de Casos de Profissionais Liberais e Servidores Públicos",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h199",
+      "data": "2026-07-07",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 4",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h67",
+      "data": "2026-07-08",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Estratégias Comportamentais de Engajamento e Desafios de Prospecção",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h200",
+      "data": "2026-07-09",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h68",
+      "data": "2026-07-10",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - Não teve gravação capitulo 13, 14",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h69",
+      "data": "2026-07-13",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h70",
+      "data": "2026-07-13",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina de Marketing",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h201",
+      "data": "2026-07-14",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 5",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h71",
+      "data": "2026-07-15",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Gestão de Consórcios, Financiamentos e Estratégias de Precificação",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h202",
+      "data": "2026-07-16",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h203",
+      "data": "2026-07-16",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Imersão Rota do Planejador Financeiro",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h72",
+      "data": "2026-07-17",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Análise de Investimento Imobiliário na Prática - valorização real, aluguel e custo de oportunidade - Como calcular e demonstrar cada cenário para o seu cliente",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h73",
+      "data": "2026-07-20",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h74",
+      "data": "2026-07-21",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS - Estratégias de Seguros, Planejamento Sucessório e Análise de Casos",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h204",
+      "data": "2026-07-21",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 6",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h75",
+      "data": "2026-07-22",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Estratégias de Marketing, Reaquecimento de Base, Amortização e Consultoria",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h205",
+      "data": "2026-07-23",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h76",
+      "data": "2026-07-24",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - A Psicologia Financeira, Capítulos 15 e 16",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h77",
+      "data": "2026-07-27",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h78",
+      "data": "2026-07-27",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina de Marketing - Esteira de Marketing: Integração Notion e Claude para Produção de Conteúdo",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h206",
+      "data": "2026-07-28",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula de Apresentação do Curso",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h79",
+      "data": "2026-07-29",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Central de Tickets Kosmo e Resolução de Casos Complexos de Superendividamento",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h207",
+      "data": "2026-07-30",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h80",
+      "data": "2026-07-31",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Orçamento Familiar,  quais as boas práticas?",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h208",
+      "data": "2026-08-01",
+      "inicio": "09:00",
+      "fim": "",
+      "nome": "Oficina do Planejador - Roteiro 4C",
+      "tipo": "imersao",
+      "link": null
+    },
+    {
+      "id": "h81",
+      "data": "2026-08-03",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h82",
+      "data": "2026-08-04",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h209",
+      "data": "2026-08-04",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 1",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h83",
+      "data": "2026-08-05",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Retenção de Clientes, Melhorias no Kosmo e Estratégias de Precificação",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h210",
+      "data": "2026-08-06",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h84",
+      "data": "2026-08-07",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - A Psicologia Financeira, Capítulos 17 e 18",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h85",
+      "data": "2026-08-10",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h86",
+      "data": "2026-08-10",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina de Marketing",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h211",
+      "data": "2026-08-11",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 2",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h87",
+      "data": "2026-08-12",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Estratégias de Aumento de Renda em Clientes Deficitários e Precificação de Diagnósticos",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h88",
+      "data": "2026-08-12",
+      "inicio": "17:00",
+      "fim": "",
+      "nome": "Update de investimentos - Estratégia de Alocação, Liquidez Tática e Visão por Classes de Ativos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h212",
+      "data": "2026-08-13",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h89",
+      "data": "2026-08-14",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Estruturação de Renda Extra no Planejamento Financeiro",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h90",
+      "data": "2026-08-17",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h91",
+      "data": "2026-08-18",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS - Estudo de Casos, Gestão de Risco e Parcerias",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h213",
+      "data": "2026-08-18",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 3",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h92",
+      "data": "2026-08-19",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Diagnóstico de Superendividamento, Transição de Fase e Lançamento do Retrato Financeiro",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h214",
+      "data": "2026-08-20",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h93",
+      "data": "2026-08-21",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - A Psicologia Financeira, Capítulos 19 e 20",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h94",
+      "data": "2026-08-24",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h95",
+      "data": "2026-08-24",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina de Marketing",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h215",
+      "data": "2026-08-25",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 4",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h96",
+      "data": "2026-08-26",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Gestão de Risco em Renda Variável, Educação Financeira de Clientes e Atualizações Kosmo",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h97",
+      "data": "2026-08-26",
+      "inicio": "17:00",
+      "fim": "",
+      "nome": "Update de investimentos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h216",
+      "data": "2026-08-27",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h98",
+      "data": "2026-08-28",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Metodologias de Pré-Qualificação, Espelhamento Guiado e Alta Conversão de Leads",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h99",
+      "data": "2026-08-31",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h100",
+      "data": "2026-09-01",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h217",
+      "data": "2026-09-01",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 5",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h101",
+      "data": "2026-09-02",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Metodologia de Ensino Prático, Gestão de Cases Imobiliários e Atualizações da Tela de Patrimônio no Kosmo",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h218",
+      "data": "2026-09-03",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h102",
+      "data": "2026-09-04",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - Spin Selling - Capítulo 1",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h103",
+      "data": "2026-09-07",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h104",
+      "data": "2026-09-07",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina de Marketing",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h219",
+      "data": "2026-09-08",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula 6",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h105",
+      "data": "2026-09-09",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Diretrizes de Compliance BTG/Portfel e Demonstração do Novo CRM Sincronizado ao Kosmo",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h106",
+      "data": "2026-09-09",
+      "inicio": "17:00",
+      "fim": "",
+      "nome": "Update de investimentos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h220",
+      "data": "2026-09-10",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h107",
+      "data": "2026-09-11",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - apresentação LCK Lab",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h108",
+      "data": "2026-09-14",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h221",
+      "data": "2026-09-15",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h109",
+      "data": "2026-09-15",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h110",
+      "data": "2026-09-16",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Estratégias de Gestão de Crédito, Engajamento de Clientes e Uso do Kosmo",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h222",
+      "data": "2026-09-17",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h111",
+      "data": "2026-09-18",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - Spin Selling - Capítulo 2",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h112",
+      "data": "2026-09-21",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h113",
+      "data": "2026-09-21",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina de Marketing",
+      "tipo": "marketing",
+      "link": null
+    },
+    {
+      "id": "h223",
+      "data": "2026-09-22",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h114",
+      "data": "2026-09-23",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Planejamento Familiar, Gestão de Clientes Endividados e Atualizações Kosmo e CRM",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h115",
+      "data": "2026-09-23",
+      "inicio": "17:00",
+      "fim": "",
+      "nome": "Update de investimentos - Protocolos de Cobrança BTG, Compliance em Ordens de Tesouro e Alocação por Classes via Research no Kosmo",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h224",
+      "data": "2026-09-24",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h116",
+      "data": "2026-09-25",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Treinamento Operacional de CRM Astera",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h117",
+      "data": "2026-09-28",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h225",
+      "data": "2026-09-29",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h118",
+      "data": "2026-09-29",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h119",
+      "data": "2026-09-30",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Planejamento Financeiro para Autônomos e Médicos",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h226",
+      "data": "2026-10-01",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h120",
+      "data": "2026-10-02",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP -  Spin Selling - Capítulo 3",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h121",
+      "data": "2026-10-05",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h122",
+      "data": "2026-10-05",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina - CRM - Configuração de Perfil, Contratos e Cobranças no CRM Astera",
+      "tipo": "outros",
+      "link": null
+    },
+    {
+      "id": "h227",
+      "data": "2026-10-06",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h123",
+      "data": "2026-10-07",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Plano de Ação para Clientes de Perfil Terapêutico",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h124",
+      "data": "2026-10-07",
+      "inicio": "17:00",
+      "fim": "",
+      "nome": "Update de investimentos - Análise de Cenário Macro: Curva DI Pós-Eleições, Alocação em Renda Fixa/Bolsa e Estruturação de Usufruto no Kosmo",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h228",
+      "data": "2026-10-08",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h125",
+      "data": "2026-10-09",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Engajamento, Gestão PF/PJ e Operação no Kosmo",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h126",
+      "data": "2026-10-12",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h229",
+      "data": "2026-10-13",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h127",
+      "data": "2026-10-13",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h128",
+      "data": "2026-10-14",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - Casos Práticos de Planejamento, Ajustes de Orçamento e Gestão de Plataforma",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h230",
+      "data": "2026-10-15",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h129",
+      "data": "2026-10-16",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - clube livro",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h130",
+      "data": "2026-10-19",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h131",
+      "data": "2026-10-19",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "Oficina - CRM",
+      "tipo": "outros",
+      "link": null
+    },
+    {
+      "id": "h231",
+      "data": "2026-10-20",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h132",
+      "data": "2026-10-21",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - case de cliente",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h133",
+      "data": "2026-10-21",
+      "inicio": "17:00",
+      "fim": "",
+      "nome": "Update de investimentos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
+      "id": "h232",
+      "data": "2026-10-22",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h134",
+      "data": "2026-10-23",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA FLOW - Educação Continuada",
+      "tipo": "flow",
+      "link": null
+    },
+    {
+      "id": "h135",
+      "data": "2026-10-26",
+      "inicio": "12:00",
+      "fim": "",
+      "nome": "Kosmo - Demonstração e FAQ - 12h",
+      "tipo": "kosmo",
+      "link": null
+    },
+    {
+      "id": "h233",
+      "data": "2026-10-27",
+      "inicio": "",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h136",
+      "data": "2026-10-27",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "CALL SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "h137",
+      "data": "2026-10-28",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - case de cliente",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h234",
+      "data": "2026-10-29",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": null
+    },
+    {
+      "id": "h138",
+      "data": "2026-10-30",
+      "inicio": "09:30",
+      "fim": "",
+      "nome": "ASTERA UP - NUDGE",
+      "tipo": "up",
+      "link": null
+    },
+    {
+      "id": "h139",
+      "data": "2026-11-02",
+      "inicio": "14:00",
+      "fim": "",
+      "nome": "LCK Lab",
+      "tipo": "lck",
+      "link": null
+    },
+    {
+      "id": "h235",
+      "data": "2026-11-03",
+      "inicio": "19:00",
+      "fim": "",
+      "nome": "Aula - Mentoria RPF",
+      "tipo": "mentoria",
+      "link": null
+    },
+    {
+      "id": "h140",
+      "data": "2026-11-04",
+      "inicio": "10:00",
+      "fim": "",
+      "nome": "ASTERA LAB - case de cliente",
+      "tipo": "lab",
+      "link": null
+    },
+    {
+      "id": "h141",
+      "data": "2026-11-04",
+      "inicio": "17:00",
+      "fim": "",
+      "nome": "Update de investimentos",
+      "tipo": "updates",
+      "link": null
+    },
+    {
       "id": "z-82647565236-1793916000000",
       "data": "2026-11-05",
       "inicio": "19:00",
