@@ -251,11 +251,14 @@ function Index() {
       {/* Cabeçalho */}
       <header style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between", flexWrap: "wrap", gap: 16, marginBottom: 22 }}>
         <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
-          <svg width="36" height="36" viewBox="0 0 100 100" aria-hidden="true">
-            <path
-              d="M50 4 Q60.6 35.4 93.7 35.8 Q67.1 55.6 77 87.2 Q50 68 23 87.2 Q32.9 55.6 6.3 35.8 Q39.4 35.4 50 4 Z"
-              fill={PAL.brand}
-            />
+          <svg width="36" height="36" viewBox="0 0 256 256" aria-hidden="true">
+            <g fill={PAL.brand} fillRule="evenodd">
+              <path transform="matrix(110,0,0,-110,128,128)" d="M.045 .94 .25 .76C.26 .48 .37602 .39559 .64554 .47198L.88008 .33325C.33287 .10816 0 .35 .045 .94Z" />
+              <path transform="matrix(33.99187,104.61627,104.61627,-33.99187,128,128)" d="M.045 .94 .25 .76C.26 .48 .37602 .39559 .64554 .47198L.88008 .33325C.33287 .10816 0 .35 .045 .94Z" />
+              <path transform="matrix(-88.99187,64.65635,64.65635,88.99187,128,128)" d="M.045 .94 .25 .76C.26 .48 .37602 .39559 .64554 .47198L.88008 .33325C.33287 .10816 0 .35 .045 .94Z" />
+              <path transform="matrix(-88.99187,-64.65635,-64.65635,88.99187,128,128)" d="M.045 .94 .25 .76C.26 .48 .37602 .39559 .64554 .47198L.88008 .33325C.33287 .10816 0 .35 .045 .94Z" />
+              <path transform="matrix(33.99187,-104.61627,-104.61627,-33.99187,128,128)" d="M.045 .94 .25 .76C.26 .48 .37602 .39559 .64554 .47198L.88008 .33325C.33287 .10816 0 .35 .045 .94Z" />
+            </g>
           </svg>
           <span style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 23, letterSpacing: ".14em", color: PAL.ink }}>ASTERA</span>
         </div>
