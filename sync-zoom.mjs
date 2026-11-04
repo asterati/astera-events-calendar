@@ -21,22 +21,22 @@ if (!ACCOUNT_ID || !CLIENT_ID || !CLIENT_SECRET) {
 
 // ===== Taxonomia (tipos + cores). Fonte da verdade do projeto. =====
 const TIPOS = [
-  { id: "lab", nome: "Astera LAB – Case de Clientes", cor: "#f5e900" },
-  { id: "lck", nome: "LCK LAB", cor: "#c92a2a" },
-  { id: "up", nome: "Astera UP – Clube do Livro", cor: "#2d6cdf" },
-  { id: "flow", nome: "Astera FLOW – Educação Continuada", cor: "#e5407a" },
-  { id: "seguros", nome: "Call SEGUROS", cor: "#5c6360" },
-  { id: "marketing", nome: "Oficina de Marketing", cor: "#e8821e" },
-  { id: "kosmo", nome: "APP Kosmo", cor: "#7a3ff2" },
-  { id: "mentoria", nome: "Mentoria RPF (Rota do Planejador)", cor: "#b08900" },
-  { id: "imersao", nome: "Imersão RPF", cor: "#c9962b" },
-  { id: "clinica", nome: "Encontro/Clínica (Roda do Planejador)", cor: "#9b2d5b" },
-  { id: "mesa", nome: "Mesa Redonda", cor: "#c75b12" },
-  { id: "acel", nome: "Aceleradora", cor: "#15938c" },
-  { id: "updates", nome: "Update de Investimentos", cor: "#0f8bbf" },
-  { id: "feriado", nome: "Feriado", cor: "#c2c6c3" },
-  { id: "aviso", nome: "Avisos", cor: "#9aa0a6" },
-  { id: "outros", nome: "Outros", cor: "#7a7f7c" },
+  { id: "lab", nome: "Astera LAB – Case de Clientes", cor: "#c6a23a" },
+  { id: "lck", nome: "LCK LAB", cor: "#b0463e" },
+  { id: "up", nome: "Astera UP – Clube do Livro", cor: "#5c7c9a" },
+  { id: "flow", nome: "Astera FLOW – Educação Continuada", cor: "#be6a85" },
+  { id: "seguros", nome: "Call SEGUROS", cor: "#8c8278" },
+  { id: "marketing", nome: "Oficina de Marketing", cor: "#cb7a4b" },
+  { id: "kosmo", nome: "APP Kosmo", cor: "#7e6aa6" },
+  { id: "mentoria", nome: "Mentoria RPF (Rota do Planejador)", cor: "#a07c3e" },
+  { id: "imersao", nome: "Imersão RPF", cor: "#c0823e" },
+  { id: "clinica", nome: "Encontro/Clínica (Roda do Planejador)", cor: "#9c4a63" },
+  { id: "mesa", nome: "Mesa Redonda", cor: "#b65f3b" },
+  { id: "acel", nome: "Aceleradora", cor: "#4e8a79" },
+  { id: "updates", nome: "Update de Investimentos", cor: "#3e8392" },
+  { id: "feriado", nome: "Feriado", cor: "#c2bbae" },
+  { id: "aviso", nome: "Avisos", cor: "#9c958b" },
+  { id: "outros", nome: "Outros", cor: "#7d756b" },
 ];
 
 // Mapeia o título (topic) da reunião do Zoom -> id do tipo.
