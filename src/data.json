@@ -1,0 +1,18 @@
+{
+  "tipos": [
+    { "id": "aula", "nome": "Aula", "cor": "aula" },
+    { "id": "workshop", "nome": "Workshop", "cor": "workshop" },
+    { "id": "mentoria", "nome": "Mentoria", "cor": "mentoria" },
+    { "id": "evento", "nome": "Evento institucional", "cor": "evento" }
+  ],
+  "eventos": [
+    { "id": "1", "data": "2026-11-05", "inicio": "19:00", "fim": "21:00", "nome": "Fundamentos de Dados — Aula 3", "tipo": "aula", "link": "https://meet.google.com/abc-defg-hij" },
+    { "id": "2", "data": "2026-11-10", "inicio": "14:00", "fim": "17:00", "nome": "Workshop de Prototipação", "tipo": "workshop", "link": "https://zoom.us/j/123456789" },
+    { "id": "3", "data": "2026-11-18", "inicio": "10:00", "fim": "11:00", "nome": "Mentoria em grupo — Carreira", "tipo": "mentoria", "link": null },
+    { "id": "4", "data": "2026-11-25", "inicio": "18:30", "fim": "20:00", "nome": "Encontro da Comunidade Astera", "tipo": "evento", "link": null },
+    { "id": "5", "data": "2026-12-02", "inicio": "19:00", "fim": "21:00", "nome": "Fundamentos de Dados — Aula 4", "tipo": "aula", "link": "https://meet.google.com/abc-defg-hij" },
+    { "id": "6", "data": "2026-12-09", "inicio": "15:00", "fim": "16:30", "nome": "Mentoria individual — Projetos", "tipo": "mentoria", "link": "https://meet.google.com/xyz-uvwx-rst" },
+    { "id": "7", "data": "2026-12-15", "inicio": "17:00", "fim": "20:00", "nome": "Celebração de fim de ano", "tipo": "evento", "link": null },
+    { "id": "8", "data": "2027-01-12", "inicio": "09:00", "fim": "12:00", "nome": "Workshop de Planejamento 2027", "tipo": "workshop", "link": "https://zoom.us/j/987654321" }
+  ]
+}
