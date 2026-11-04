@@ -62,8 +62,8 @@
 }
 
 :root {
-  --font-display: "Chakra Petch", system-ui, sans-serif;
-  --font-sans: "Poppins", system-ui, sans-serif;
+  --font-display: "Manrope", system-ui, sans-serif;
+  --font-sans: "Source Sans 3", system-ui, sans-serif;
   /* As cores por tipo de iniciativa vivem no data.json (campo "cor"), não aqui. */
   --radius: 0.625rem;
   --background: oklch(0.985 0.006 85);
@@ -141,8 +141,8 @@
   }
 
   body {
-    background-color: var(--color-background);
-    color: var(--color-foreground);
+    background-color: #f5efe4; /* creme (marca) */
+    color: #40352f; /* café (marca) */
     font-family: var(--font-sans);
   }
   .font-display {

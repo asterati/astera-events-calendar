@@ -20,14 +20,14 @@ type Tipo = { id: string; nome: string; cor: string };
 type Evento = { id: string; data: string; inicio: string; fim: string; nome: string; tipo: string; link: string | null };
 
 const PAL = {
-  bg: "#ffffff",
-  panel: "#f7f8f7",
-  we: "#fcfcfb",
-  ink: "#161616",
-  muted: "#606563",
-  faint: "#9aa09c",
-  line: "#e6e8e6",
-  brand: "#f5e900",
+  bg: "#f5efe4", // creme (marca)
+  panel: "#fcf9f2", // célula
+  we: "#f0e9db", // fim de semana
+  ink: "#40352f", // café (marca)
+  muted: "#8a7f72",
+  faint: "#ab9f90",
+  line: "#e4dccd",
+  brand: "#b39255", // dourado (marca)
 };
 
 const COR_PADRAO = "#7a7f7c";
@@ -55,7 +55,7 @@ const addDays = (dt: Date, n: number) => {
   return x;
 };
 const mondayOf = (dt: Date) => addDays(dt, -((dt.getDay() + 6) % 7));
-const fmtDM = (dt: Date) => `${dt.getDate()} ${MESES_ABR[dt.getMonth()].toLowerCase()}`;
+const fmtDM = (dt: Date) => `${dt.getDate()} ${(MESES_ABR[dt.getMonth()] ?? "").toLowerCase()}`;
 
 function Index() {
   const tipos = data.tipos as Tipo[];
@@ -135,7 +135,7 @@ function Index() {
     cursor: "pointer",
     transition: "all .15s",
     color: active ? PAL.ink : PAL.muted,
-    background: active ? "#1a1a1a" : "transparent",
+    background: active ? PAL.ink : "transparent",
     ...(active ? { color: "#fff" } : {}),
   });
   const navBtn: CSSProperties = {
@@ -207,7 +207,7 @@ function Index() {
         style={{
           background: wknd ? PAL.we : PAL.panel,
           border: `1px solid ${hoje ? PAL.brand : PAL.line}`,
-          boxShadow: hoje ? `0 0 0 3px rgba(245,233,0,.25)` : undefined,
+          boxShadow: hoje ? `0 0 0 3px rgba(179,146,85,.30)` : undefined,
           borderRadius: 10,
           minHeight: 116,
           padding: "8px 8px 10px",
@@ -230,7 +230,7 @@ function Index() {
                 letterSpacing: ".1em",
                 color: PAL.brand,
                 fontWeight: 700,
-                background: "#1a1a1a",
+                background: PAL.ink,
                 padding: "2px 6px",
                 borderRadius: 5,
               }}
@@ -251,17 +251,20 @@ function Index() {
       {/* Cabeçalho */}
       <header style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between", flexWrap: "wrap", gap: 16, marginBottom: 22 }}>
         <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
-          <svg width="34" height="34" viewBox="0 0 24 24" aria-hidden="true">
-            <path d="M12 2l2.6 6.9L22 9.3l-5.3 4.7L18.3 22 12 17.9 5.7 22l1.6-8L2 9.3l7.4-.4z" fill={PAL.brand} stroke="#1a1a1a" strokeWidth="1" strokeLinejoin="round" />
+          <svg width="36" height="36" viewBox="0 0 100 100" aria-hidden="true">
+            <path
+              d="M50 4 Q60.6 35.4 93.7 35.8 Q67.1 55.6 77 87.2 Q50 68 23 87.2 Q32.9 55.6 6.3 35.8 Q39.4 35.4 50 4 Z"
+              fill={PAL.brand}
+            />
           </svg>
-          <span style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 22, letterSpacing: ".06em" }}>ASTERA</span>
+          <span style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 23, letterSpacing: ".14em", color: PAL.ink }}>ASTERA</span>
         </div>
         <div style={{ textAlign: "right" }}>
           <p style={{ fontFamily: "var(--font-display)", textTransform: "uppercase", letterSpacing: ".22em", fontSize: 10.5, color: PAL.muted, fontWeight: 600, margin: "0 0 3px" }}>
             Calendário Geral de Iniciativas
           </p>
           <h1 style={{ fontFamily: "var(--font-display)", fontWeight: 700, letterSpacing: ".04em", fontSize: 26, lineHeight: 1, margin: 0, display: "inline-flex", alignItems: "center", gap: 11 }}>
-            <span style={{ display: "inline-block", width: 12, height: 12, borderRadius: 3, background: PAL.brand, boxShadow: "0 0 0 4px rgba(245,233,0,.18)" }} />
+            <span style={{ display: "inline-block", width: 12, height: 12, borderRadius: 3, background: PAL.brand, boxShadow: "0 0 0 4px rgba(179,146,85,.22)" }} />
             ASTERA Academy
           </h1>
         </div>
