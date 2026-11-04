@@ -8,7 +8,9 @@
     "mentoria": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf",
     "kosmo": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq",
     "clinica": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador",
-    "updates": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
+    "updates": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos",
+    "marketing": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/treinamentos-gerais",
+    "mesa": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/treinamentos-gerais"
   },
   "avulsos": []
 }
