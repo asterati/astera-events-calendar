@@ -115,6 +115,9 @@ function pushEvent(out, { id, topic, startIso, duration }) {
 async function build() {
   const token = await getToken();
   const meetings = await listMeetings(token);
+  // A listagem (type=upcoming) repete a mesma reunião recorrente uma vez por
+  // ocorrência; deduplica por id antes de expandir as ocorrências (evita N²).
+  const unicas = [...new Map(meetings.map((m) => [m.id, m])).values()];
   const hoje = new Intl.DateTimeFormat("en-CA", { timeZone: TZ }).format(new Date()); // YYYY-MM-DD
   const limite = new Intl.DateTimeFormat("en-CA", { timeZone: TZ }).format(
     new Date(Date.now() + JANELA_DIAS * 86400000)
@@ -125,7 +128,7 @@ async function build() {
   };
   const out = [];
 
-  for (const m of meetings) {
+  for (const m of unicas) {
     // Recorrentes (type 3 = sem horário fixo, 8 = com horário fixo): buscar ocorrências.
     if (m.type === 3 || m.type === 8) {
       try {
@@ -158,9 +161,11 @@ async function build() {
     }
   }
 
+  // Remove duplicatas por id (a mesma ocorrência pode aparecer mais de uma vez).
+  const unicos = [...new Map(out.map((e) => [e.id, e])).values()];
   // Mantém só as iniciativas conhecidas (descarta reuniões avulsas/não mapeadas da conta).
-  const eventosZoom = out.filter((e) => e.tipo !== "outros");
-  const descartados = [...new Set(out.filter((e) => e.tipo === "outros").map((e) => e.nome))];
+  const eventosZoom = unicos.filter((e) => e.tipo !== "outros");
+  const descartados = [...new Set(unicos.filter((e) => e.tipo === "outros").map((e) => e.nome))];
 
   const eventos = [...historico, ...eventosZoom].sort((a, b) =>
     (a.data + (a.inicio || "")).localeCompare(b.data + (b.inicio || ""))
@@ -170,7 +175,7 @@ async function build() {
   console.log(
     `OK: ${eventosZoom.length} eventos de iniciativas (janela de ${JANELA_DIAS} dias) + ${historico.length} do histórico -> src/data.json`
   );
-  console.log(`Ocorrências brutas no período: ${out.length}; descartadas (não mapeadas): ${out.length - eventosZoom.length}`);
+  console.log(`Ocorrências únicas no período: ${unicos.length}; descartadas (não mapeadas): ${unicos.length - eventosZoom.length}`);
   if (descartados.length) console.log(`Títulos descartados (${descartados.length}): ${descartados.slice(0, 50).join(" | ")}`);
 }
 
