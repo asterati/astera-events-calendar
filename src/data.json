@@ -2288,6 +2288,15 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
     },
     {
+      "id": "z-86388874820-1795032000000",
+      "data": "2026-11-18",
+      "inicio": "17:00",
+      "fim": "18:00",
+      "nome": "Astera - Updates de Investimentos",
+      "tipo": "updates",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
+    },
+    {
       "id": "z-82647565236-1795125600000",
       "data": "2026-11-19",
       "inicio": "19:00",
@@ -2394,6 +2403,15 @@
       "nome": "ASTERA LAB",
       "tipo": "lab",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
+    },
+    {
+      "id": "z-86388874820-1796241600000",
+      "data": "2026-12-02",
+      "inicio": "17:00",
+      "fim": "18:00",
+      "nome": "Astera - Updates de Investimentos",
+      "tipo": "updates",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
     },
     {
       "id": "z-82647565236-1796335200000",
@@ -2504,6 +2522,15 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
     },
     {
+      "id": "z-86388874820-1797451200000",
+      "data": "2026-12-16",
+      "inicio": "17:00",
+      "fim": "18:00",
+      "nome": "Astera - Updates de Investimentos",
+      "tipo": "updates",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
+    },
+    {
       "id": "z-82647565236-1797544800000",
       "data": "2026-12-17",
       "inicio": "19:00",
@@ -2610,6 +2637,15 @@
       "nome": "ASTERA LAB",
       "tipo": "lab",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
+    },
+    {
+      "id": "z-86388874820-1798660800000",
+      "data": "2026-12-30",
+      "inicio": "17:00",
+      "fim": "18:00",
+      "nome": "Astera - Updates de Investimentos",
+      "tipo": "updates",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
     },
     {
       "id": "z-82647565236-1798754400000",
@@ -2720,6 +2756,15 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
     },
     {
+      "id": "z-86388874820-1799870400000",
+      "data": "2027-01-13",
+      "inicio": "17:00",
+      "fim": "18:00",
+      "nome": "Astera - Updates de Investimentos",
+      "tipo": "updates",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
+    },
+    {
       "id": "z-82647565236-1799964000000",
       "data": "2027-01-14",
       "inicio": "19:00",
@@ -2828,6 +2873,15 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
     },
     {
+      "id": "z-86388874820-1801080000000",
+      "data": "2027-01-27",
+      "inicio": "17:00",
+      "fim": "18:00",
+      "nome": "Astera - Updates de Investimentos",
+      "tipo": "updates",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
+    },
+    {
       "id": "z-82647565236-1801173600000",
       "data": "2027-01-28",
       "inicio": "19:00",
@@ -2898,6 +2952,15 @@
       "nome": "Clínica do Planejador",
       "tipo": "clinica",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
+    },
+    {
+      "id": "z-89870419491-1801830600000",
+      "data": "2027-02-05",
+      "inicio": "09:30",
+      "fim": "10:30",
+      "nome": "Astera UP - Treinamento Quinzenal",
+      "tipo": "up",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
     }
   ]
 }
