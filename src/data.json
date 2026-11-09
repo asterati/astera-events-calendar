@@ -2198,24 +2198,6 @@
       "link": null
     },
     {
-      "id": "z-83645181724-1794236400000",
-      "data": "2026-11-09",
-      "inicio": "12:00",
-      "fim": "13:00",
-      "nome": "Demonstração e FAQ - APP Kosmo",
-      "tipo": "kosmo",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq"
-    },
-    {
-      "id": "z-81826295067-1794243600000",
-      "data": "2026-11-09",
-      "inicio": "14:00",
-      "fim": "15:00",
-      "nome": "LCK LAB",
-      "tipo": "lck",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/lck-captacao"
-    },
-    {
       "id": "z-86192703847-1794330000000",
       "data": "2026-11-10",
       "inicio": "14:00",
