@@ -2943,6 +2943,15 @@
       "nome": "Astera UP - Treinamento Quinzenal",
       "tipo": "up",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
+    },
+    {
+      "id": "z-83645181724-1802098800000",
+      "data": "2027-02-08",
+      "inicio": "12:00",
+      "fim": "13:00",
+      "nome": "Demonstração e FAQ - APP Kosmo",
+      "tipo": "kosmo",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq"
     }
   ]
 }
