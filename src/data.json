@@ -2198,33 +2198,6 @@
       "link": null
     },
     {
-      "id": "z-86192703847-1794330000000",
-      "data": "2026-11-10",
-      "inicio": "14:00",
-      "fim": "15:00",
-      "nome": "Call Quinzenal - Astera SEGUROS",
-      "tipo": "seguros",
-      "link": null
-    },
-    {
-      "id": "z-89050522186-1794348000000",
-      "data": "2026-11-10",
-      "inicio": "19:00",
-      "fim": "21:00",
-      "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
-      "tipo": "mentoria",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
-    },
-    {
-      "id": "z-81429384379-1794402000000",
-      "data": "2026-11-11",
-      "inicio": "10:00",
-      "fim": "11:00",
-      "nome": "ASTERA LAB",
-      "tipo": "lab",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
-    },
-    {
       "id": "z-82647565236-1794520800000",
       "data": "2026-11-12",
       "inicio": "19:00",
@@ -2952,6 +2925,15 @@
       "nome": "Demonstração e FAQ - APP Kosmo",
       "tipo": "kosmo",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq"
+    },
+    {
+      "id": "z-89050522186-1802210400000",
+      "data": "2027-02-09",
+      "inicio": "19:00",
+      "fim": "21:00",
+      "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
+      "tipo": "mentoria",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
     }
   ]
 }
