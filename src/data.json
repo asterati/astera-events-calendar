@@ -2934,6 +2934,24 @@
       "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
       "tipo": "mentoria",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
+    },
+    {
+      "id": "z-81429384379-1802264400000",
+      "data": "2027-02-10",
+      "inicio": "10:00",
+      "fim": "11:00",
+      "nome": "ASTERA LAB",
+      "tipo": "lab",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
+    },
+    {
+      "id": "z-86388874820-1802289600000",
+      "data": "2027-02-10",
+      "inicio": "17:00",
+      "fim": "18:00",
+      "nome": "Astera - Updates de Investimentos",
+      "tipo": "updates",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
     }
   ]
 }
