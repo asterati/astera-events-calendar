@@ -2198,24 +2198,6 @@
       "link": null
     },
     {
-      "id": "z-82647565236-1794520800000",
-      "data": "2026-11-12",
-      "inicio": "19:00",
-      "fim": "20:00",
-      "nome": "Clínica do Planejador",
-      "tipo": "clinica",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
-    },
-    {
-      "id": "z-89870419491-1794573000000",
-      "data": "2026-11-13",
-      "inicio": "09:30",
-      "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
-    },
-    {
       "id": "z-83645181724-1794841200000",
       "data": "2026-11-16",
       "inicio": "12:00",
@@ -2952,6 +2934,15 @@
       "nome": "Astera - Updates de Investimentos",
       "tipo": "updates",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
+    },
+    {
+      "id": "z-82647565236-1802383200000",
+      "data": "2027-02-11",
+      "inicio": "19:00",
+      "fim": "20:00",
+      "nome": "Clínica do Planejador",
+      "tipo": "clinica",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     }
   ]
 }
