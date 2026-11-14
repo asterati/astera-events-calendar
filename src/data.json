@@ -2943,6 +2943,15 @@
       "nome": "Clínica do Planejador",
       "tipo": "clinica",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
+    },
+    {
+      "id": "z-81730442538-1802435400000",
+      "data": "2027-02-12",
+      "inicio": "09:30",
+      "fim": "10:30",
+      "nome": "Astera Flow - Treinamento Quinzenal",
+      "tipo": "flow",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
     }
   ]
 }
