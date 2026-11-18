@@ -2198,24 +2198,6 @@
       "link": null
     },
     {
-      "id": "z-89050522186-1794952800000",
-      "data": "2026-11-17",
-      "inicio": "19:00",
-      "fim": "21:00",
-      "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
-      "tipo": "mentoria",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
-    },
-    {
-      "id": "z-81429384379-1795006800000",
-      "data": "2026-11-18",
-      "inicio": "10:00",
-      "fim": "11:00",
-      "nome": "ASTERA LAB",
-      "tipo": "lab",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
-    },
-    {
       "id": "z-86388874820-1795032000000",
       "data": "2026-11-18",
       "inicio": "17:00",
@@ -2961,6 +2943,24 @@
       "nome": "LCK LAB",
       "tipo": "lck",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/lck-captacao"
+    },
+    {
+      "id": "z-86192703847-1802797200000",
+      "data": "2027-02-16",
+      "inicio": "14:00",
+      "fim": "15:00",
+      "nome": "Call Quinzenal - Astera SEGUROS",
+      "tipo": "seguros",
+      "link": null
+    },
+    {
+      "id": "z-89050522186-1802815200000",
+      "data": "2027-02-16",
+      "inicio": "19:00",
+      "fim": "21:00",
+      "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
+      "tipo": "mentoria",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
     }
   ]
 }
