@@ -2198,24 +2198,6 @@
       "link": null
     },
     {
-      "id": "z-86388874820-1795032000000",
-      "data": "2026-11-18",
-      "inicio": "17:00",
-      "fim": "18:00",
-      "nome": "Astera - Updates de Investimentos",
-      "tipo": "updates",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-updates-investimentos"
-    },
-    {
-      "id": "z-82647565236-1795125600000",
-      "data": "2026-11-19",
-      "inicio": "19:00",
-      "fim": "20:00",
-      "nome": "Clínica do Planejador",
-      "tipo": "clinica",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
-    },
-    {
       "id": "z-81730442538-1795177800000",
       "data": "2026-11-20",
       "inicio": "09:30",
@@ -2961,6 +2943,15 @@
       "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
       "tipo": "mentoria",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
+    },
+    {
+      "id": "z-81429384379-1802869200000",
+      "data": "2027-02-17",
+      "inicio": "10:00",
+      "fim": "11:00",
+      "nome": "ASTERA LAB",
+      "tipo": "lab",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
     }
   ]
 }
