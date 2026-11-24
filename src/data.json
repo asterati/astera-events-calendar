@@ -2198,15 +2198,6 @@
       "link": null
     },
     {
-      "id": "z-86192703847-1795539600000",
-      "data": "2026-11-24",
-      "inicio": "14:00",
-      "fim": "15:00",
-      "nome": "Call Quinzenal - Astera SEGUROS",
-      "tipo": "seguros",
-      "link": null
-    },
-    {
       "id": "z-89050522186-1795557600000",
       "data": "2026-11-24",
       "inicio": "19:00",
@@ -2234,13 +2225,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-89870419491-1795782600000",
+      "id": "z-81730442538-1795782600000",
       "data": "2026-11-27",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
+      "nome": "Astera Flow - Treinamento Quinzenal",
+      "tipo": "flow",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
     },
     {
       "id": "z-83645181724-1796050800000",
@@ -2288,13 +2279,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-81730442538-1796387400000",
+      "id": "z-89870419491-1796387400000",
       "data": "2026-12-04",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera Flow - Treinamento Quinzenal",
-      "tipo": "flow",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
+      "nome": "Astera UP - Treinamento Quinzenal",
+      "tipo": "up",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
     },
     {
       "id": "z-83645181724-1796655600000",
@@ -2351,13 +2342,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-89870419491-1796992200000",
+      "id": "z-81730442538-1796992200000",
       "data": "2026-12-11",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
+      "nome": "Astera Flow - Treinamento Quinzenal",
+      "tipo": "flow",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
     },
     {
       "id": "z-83645181724-1797260400000",
@@ -2405,13 +2396,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-81730442538-1797597000000",
+      "id": "z-89870419491-1797597000000",
       "data": "2026-12-18",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera Flow - Treinamento Quinzenal",
-      "tipo": "flow",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
+      "nome": "Astera UP - Treinamento Quinzenal",
+      "tipo": "up",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
     },
     {
       "id": "z-83645181724-1797865200000",
@@ -2468,15 +2459,6 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-89870419491-1798201800000",
-      "data": "2026-12-25",
-      "inicio": "09:30",
-      "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
-    },
-    {
       "id": "z-83645181724-1798470000000",
       "data": "2026-12-28",
       "inicio": "12:00",
@@ -2520,15 +2502,6 @@
       "nome": "Clínica do Planejador",
       "tipo": "clinica",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
-    },
-    {
-      "id": "z-81730442538-1798806600000",
-      "data": "2027-01-01",
-      "inicio": "09:30",
-      "fim": "10:30",
-      "nome": "Astera Flow - Treinamento Quinzenal",
-      "tipo": "flow",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
     },
     {
       "id": "z-83645181724-1799074800000",
@@ -2585,13 +2558,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-89870419491-1799411400000",
+      "id": "z-81730442538-1799411400000",
       "data": "2027-01-08",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
+      "nome": "Astera Flow - Treinamento Quinzenal",
+      "tipo": "flow",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
     },
     {
       "id": "z-83645181724-1799679600000",
@@ -2639,13 +2612,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-81730442538-1800016200000",
+      "id": "z-89870419491-1800016200000",
       "data": "2027-01-15",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera Flow - Treinamento Quinzenal",
-      "tipo": "flow",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
+      "nome": "Astera UP - Treinamento Quinzenal",
+      "tipo": "up",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
     },
     {
       "id": "z-83645181724-1800284400000",
@@ -2702,13 +2675,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-89870419491-1800621000000",
+      "id": "z-81730442538-1800621000000",
       "data": "2027-01-22",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
+      "nome": "Astera Flow - Treinamento Quinzenal",
+      "tipo": "flow",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
     },
     {
       "id": "z-83645181724-1800889200000",
@@ -2756,13 +2729,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-81730442538-1801225800000",
+      "id": "z-89870419491-1801225800000",
       "data": "2027-01-29",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera Flow - Treinamento Quinzenal",
-      "tipo": "flow",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
+      "nome": "Astera UP - Treinamento Quinzenal",
+      "tipo": "up",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
     },
     {
       "id": "z-83645181724-1801494000000",
@@ -2819,13 +2792,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-89870419491-1801830600000",
+      "id": "z-81730442538-1801830600000",
       "data": "2027-02-05",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
+      "nome": "Astera Flow - Treinamento Quinzenal",
+      "tipo": "flow",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
     },
     {
       "id": "z-83645181724-1802098800000",
@@ -2873,13 +2846,13 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-81730442538-1802435400000",
+      "id": "z-89870419491-1802435400000",
       "data": "2027-02-12",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera Flow - Treinamento Quinzenal",
-      "tipo": "flow",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
+      "nome": "Astera UP - Treinamento Quinzenal",
+      "tipo": "up",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
     },
     {
       "id": "z-83645181724-1802703600000",
@@ -2936,13 +2909,22 @@
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
     },
     {
-      "id": "z-89870419491-1803040200000",
+      "id": "z-81730442538-1803040200000",
       "data": "2027-02-19",
       "inicio": "09:30",
       "fim": "10:30",
-      "nome": "Astera UP - Treinamento Quinzenal",
-      "tipo": "up",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
+      "nome": "Astera Flow - Treinamento Quinzenal",
+      "tipo": "flow",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-flow"
+    },
+    {
+      "id": "z-83645181724-1803308400000",
+      "data": "2027-02-22",
+      "inicio": "12:00",
+      "fim": "13:00",
+      "nome": "Demonstração e FAQ - APP Kosmo",
+      "tipo": "kosmo",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq"
     }
   ]
 }
