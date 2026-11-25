@@ -2198,24 +2198,6 @@
       "link": null
     },
     {
-      "id": "z-89050522186-1795557600000",
-      "data": "2026-11-24",
-      "inicio": "19:00",
-      "fim": "21:00",
-      "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
-      "tipo": "mentoria",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
-    },
-    {
-      "id": "z-81429384379-1795611600000",
-      "data": "2026-11-25",
-      "inicio": "10:00",
-      "fim": "11:00",
-      "nome": "ASTERA LAB",
-      "tipo": "lab",
-      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-lab"
-    },
-    {
       "id": "z-82647565236-1795730400000",
       "data": "2026-11-26",
       "inicio": "19:00",
@@ -2925,6 +2907,15 @@
       "nome": "Demonstração e FAQ - APP Kosmo",
       "tipo": "kosmo",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/kosmo-demo-faq"
+    },
+    {
+      "id": "z-89050522186-1803420000000",
+      "data": "2027-02-23",
+      "inicio": "19:00",
+      "fim": "21:00",
+      "nome": "Mentoria Rota do Planejador Financeiro - ASTERA",
+      "tipo": "mentoria",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/mentoriarpf"
     }
   ]
 }
