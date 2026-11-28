@@ -2925,6 +2925,15 @@
       "nome": "Clínica do Planejador",
       "tipo": "clinica",
       "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/roda_do_planejador"
+    },
+    {
+      "id": "z-89870419491-1803645000000",
+      "data": "2027-02-26",
+      "inicio": "09:30",
+      "fim": "10:30",
+      "nome": "Astera UP - Treinamento Quinzenal",
+      "tipo": "up",
+      "link": "https://atlas.asteraplanejamento.com.br/app/ao-vivo/astera-up"
     }
   ]
 }
